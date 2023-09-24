@@ -18,7 +18,7 @@ npm i
 npm run build
 
 
-##Link to live application/GithubPages
+## Link to live application/GithubPages
 https://erlende96.github.io/AuctionWS/
 
 ## Dependencies
