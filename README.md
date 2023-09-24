@@ -14,6 +14,7 @@ https://vinorodrigues.github.io/bootstrap-dark-5/examples/cheatsheet-night.html
 Before starting the project, make sure you have Node.js and npm installed on your computer.
 
 npm i
+
 npm run build
 
 ## Configuration
