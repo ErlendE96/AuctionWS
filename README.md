@@ -17,10 +17,7 @@ npm i
 
 npm run build
 
-## Configuration
 
-- SASS/CSS for styling.
-- live-server used for live viewing of the website.
 
 ## Dependencies
 
