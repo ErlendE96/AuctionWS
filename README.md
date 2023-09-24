@@ -18,6 +18,8 @@ npm i
 npm run build
 
 
+##Link to live application/GithubPages
+https://erlende96.github.io/AuctionWS/
 
 ## Dependencies
 
@@ -30,5 +32,3 @@ prototype: https://www.figma.com/file/FNAW4I2SP6Y4Uo8pQjnQNb/Untitled?type=desig
 planning: https://trello.com/invite/b/ClheIv2h/ATTIe0b614abe45ebb6e0960e9552b5fa238FB468ED2/auction-website
 
 
-## link to github pages:
-https://erlende96.github.io/social-media-client/
