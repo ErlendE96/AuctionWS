@@ -1,5 +1,6 @@
 # AuctionWS
 Auction website
+<img width="1427" alt="sc-sp" src="https://github.com/ErlendE96/AuctionWS/assets/96021420/6d58821b-eb3e-4596-a302-c2488e8d4012">
 
 ## About
 This website is an online auction website where listings are available and registered users can bid on the listings. You are able to see outher users profiles and the biddings they´ve made on their profile. the website gets its content from an api; https://api.noroff.dev/api/v1.
