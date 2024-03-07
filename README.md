@@ -1,9 +1,10 @@
-# AuctionWS
-Auction website
+# Online auction website
+
 <img width="1427" alt="sc-sp" src="https://github.com/ErlendE96/AuctionWS/assets/96021420/6d58821b-eb3e-4596-a302-c2488e8d4012">
 
 ## About
-This website is an online auction website where listings are available and registered users can bid on the listings. You are able to see outher users profiles and the biddings they´ve made on their profile. the website gets its content from an api; https://api.noroff.dev/api/v1.
+This website is made for users to be able to list items which other are able to bid on. Users are able to register and log in to the website. new users are rewarded 1000 tokens which they are able to use to bid on items. 
+When logged in, the user is able to watch other users profiles aswell as their own. On these profiles, the users token-amount is shown, aswell as their avatar and all their previous posts. the website gets its content from an api.
 
 ## Testing
 Testing the website can be done by using unit testing, f.ex Jest, or end-to-end testing using f.ex Cypress.
